@@ -1,4 +1,4 @@
-/* Uses of ES6 */
+/* Usage of ES6 */
 
 const x = 10;
 const y = 30;
